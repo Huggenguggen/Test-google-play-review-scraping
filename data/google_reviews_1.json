@@ -1,0 +1,23 @@
+{
+  "results": {
+    "data": [
+      {
+        "id": "34fef766-b6ec-41bb-b844-eb48dd20a729",
+        "userName": "lim xiangqing",
+        "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocINKgZs7cjT7F7P7okaRXRH1KTAdzEZmP0V2JGKRPUZ=mo",
+        "date": "2024-03-10T23:51:02.700Z",
+        "score": 1,
+        "scoreText": "1",
+        "url": "https://play.google.com/store/apps/details?id=sg.com.gxs.app&reviewId=34fef766-b6ec-41bb-b844-eb48dd20a729",
+        "title": null,
+        "text": "cant logging using finger print . previously still able to use . so pissed off with the update .",
+        "replyDate": "2024-03-11T00:52:46.253Z",
+        "replyText": "Hi Xiangqing, we'd love to look into this for you. Could you please reach out to us via our 24/7 hotline at (+65) 3105 2055? We'll be more than happy to look into the matter.🙏",
+        "version": "2.23.0",
+        "thumbsUp": 0,
+        "criterias": []
+      }
+    ],
+    "nextPaginationToken": "Cn8KfQp7MCxUSU1FU1RBTVAgIjIwMjMtMDctMjYgMjM6MDY6MTIuNjY0NzI1KzAwIiwxMzg2NjY1MTgxNjAsImh0dHA6Ly9tYXJrZXQuYW5kcm9pZC5jb20vZGV0YWlscz9pZD12MjpzZy5jb20uZ3hzLmFwcDoxIiwxLGZhbHNl"
+  }
+}

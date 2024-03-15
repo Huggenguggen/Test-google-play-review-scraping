@@ -1,0 +1,26 @@
+{
+  "name": "test-google-play-review-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huggenguggen/Test-google-play-review-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huggenguggen/Test-google-play-review-scraping/issues"
+  },
+  "homepage": "https://github.com/Huggenguggen/Test-google-play-review-scraping#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "google-play-scraper": "^10.0.0",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
